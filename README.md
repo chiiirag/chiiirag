@@ -1,10 +1,14 @@
 # Hi, I'm Chirag Dafda 👋
 
-I'm a **Mobile Application Developer** specializing in Flutter and Dart, building production-ready Android and iOS applications.
+I'm a **Mobile Application Developer** specializing in Flutter and Dart, building scalable Android and iOS applications.
 
-- 📱 Experienced in Flutter, Clean Architecture, BLoC, Firebase & Supabase.
-- ⚙️ Also work with React, Next.js, Node.js, PostgreSQL and AWS.
-- 🚀 Passionate about building scalable products and contributing to open-source projects.
-- 🌍 Open to remote opportunities, freelance projects and collaborations.
+- 📱 Flutter Development: Responsive UI, custom widgets, animations & cross-platform apps.
+- 🏗️ Architecture: Clean Architecture, BLoC, Provider, Riverpod & GetX.
+- 🔌 Backend Integration: REST APIs, Firebase, Supabase & authentication.
+- 🗺️ Maps & Location: Google Maps, Mapbox, GPS & location-based features.
+- 🎨 UI/UX: Figma-to-Flutter implementation and pixel-perfect interfaces.
+- 🚀 Deployment: GitHub Actions, CI/CD, Play Store & App Store releases.
+- 💳 Integrations: Payment gateways, push notifications & third-party SDKs.
+- ⚙️ Other Technologies: React, Next.js, Node.js, PostgreSQL & AWS.
 
 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/chirag-dafda-8ba850204/) · [Portfolio](https://chirag-portfolio-kohl-alpha.vercel.app/)
